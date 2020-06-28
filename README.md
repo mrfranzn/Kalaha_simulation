@@ -1,5 +1,4 @@
 # Kalaha_simulation
-A simple simulation of the Kalaha board game
 
 A simple simulation in Python of the board game Kalaha under two different strategies for the two players. The first strategy is to choose randomly which hose to sow the seeds from  (with equal probability assigned to each nonempty house). The second strategy is to sow from the house with the maximum number of seeds, and if there is more than one house with a maximum number of seeds, chose randomly among these houses. 
 
